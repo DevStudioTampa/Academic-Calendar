@@ -1,0 +1,29 @@
+h1, h3 {
+    text-align: center;
+    
+}
+
+body, table, th, td {
+    border: 1px solid black;
+}
+
+body {
+    width: 100%;
+}
+
+td, th {
+    text-align: left;
+}
+
+td {
+    vertical-align: bottom;
+}
+
+table {
+    width: 80%;
+    position: center;
+}
+
+table {
+    margin-left: inherit;
+}
